@@ -1,0 +1,17 @@
+/**
+ * Group Member Names: Anreet
+ * Group Member Student Numbers: 991671857
+ * Final Project
+ * Date: April 9th, 2023
+ */
+
+.button{
+    -fx-text-fill:white;
+    -fx-background-color:blue;
+    spacing:10px;
+    padding: 10px;
+}
+
+.button:hover{
+    -fx-background-color:black;
+}
